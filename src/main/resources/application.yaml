@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: # GitHub client id
+            clientSecret: # GitHub client Secret
+          google:
+            clientId: # Goggle client id
+            clientSecret: # Goggle client Secret
